@@ -1,2 +1,2 @@
-# java-kanban
+# TaskManager
 Repository for homework project.
